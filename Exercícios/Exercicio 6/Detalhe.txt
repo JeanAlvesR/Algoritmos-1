@@ -1,0 +1,1 @@
+Faltou checar a condição do divisor igual a 0.
